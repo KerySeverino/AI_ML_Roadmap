@@ -26,6 +26,8 @@ I'm starting from the foundation, rebuilding the knowledge, and sharing everythi
 - **Student Grades Analyzer** – NumPy project on matrix math
 - **Simulated Weather Analyzer** – Temp/humidity logic & slicing
 - **BMI Calculator** – Feature engineering & classification
+- **Titanic Dataset** – Feature engineering & classification
+- **Heart Disease Dataset** –  Feature engineering, classification & model evaluation (ROC, PR curve)
 
 ---
 
