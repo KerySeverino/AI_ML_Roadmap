@@ -14,20 +14,10 @@ I'm starting from the foundation, rebuilding the knowledge, and sharing everythi
 
 ## What You'll Find Here 📚
 
-### Level 1 – Foundations
-> *“Before building models, I will refresh my memory and build muscle.”*
-
-- `python/` – NumPy, pandas, data viz basics  
-- `sql/` – Query practice & data analysis logic  
-- `statistics/` – Probability, distributions, core theory  
-- `linear_algebra/` – Vectors, matrices, math behind ML  
-
-### Projects So Far 🛠
-- **Student Grades Analyzer** – NumPy project on matrix math
-- **Simulated Weather Analyzer** – Temp/humidity logic & slicing
-- **BMI Calculator** – Feature engineering & classification
-- **Titanic Dataset** – Feature engineering & classification
-- **Heart Disease Dataset** –  Feature engineering, classification & model evaluation (ROC, PR curve)
+- `ml_projects/` – AI/ML projects 
+- `python/` – Numpy, Pandas, Plots, Pytorch
+- `datasets/` – Practice datasets
+- `reference_materials/` – PDF files 
 
 ---
 
@@ -44,8 +34,7 @@ This repo documents that journey.
 ---
 
 ## In Progress 📈 
-- [ ] Coursera Machine Learning Specialization
-- [ ] Numpy, Pandas, Etc  
+- [ ] Numpy, Pandas, Pytorch, Etc 
 - [ ] SQL Query practice & data analysis logic  
 - [ ] Statistics – Probability, distributions, core theory  
 - [ ] Linear_algebra – Vectors, matrices, math behind ML  
